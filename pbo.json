@@ -1,0 +1,23 @@
+{
+    "compress": {
+        "exclude": [
+        ],
+        "include": [
+            "\\.txt$"
+        ]
+    },
+    "headers": [
+        {
+            "name": "product",
+            "value": "dayz"
+        },
+        {
+            "name": "prefix",
+            "value": "scripts"
+        },
+        {
+            "name": "version",
+            "value": "112503"
+        }
+    ]
+}
